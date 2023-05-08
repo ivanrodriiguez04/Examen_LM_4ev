@@ -1,0 +1,13 @@
+body{
+	font-family:negrita;
+}
+h1{
+	text-align:center;
+	color: blue;
+}
+form{
+	border:3px solid black;
+}
+button{
+	text-align:right;
+}
